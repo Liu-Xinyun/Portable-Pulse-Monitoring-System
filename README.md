@@ -77,4 +77,4 @@ oscilloscope observations and physiological expectations.
 
 ## Author
 Liu Xinyun
-LZhejiang University  
+Zhejiang University  
